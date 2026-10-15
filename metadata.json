@@ -1,0 +1,7 @@
+{
+  "name": "Eagles Healthcare NEMT Transport Platform",
+  "description": "Enterprise-grade Non-Emergency Medical Transportation (NEMT) platform for Eagles Healthcare Patient Transfer Services featuring live dispatch CAD, driver mobile workflows, wheelchair & stretcher capacity routing, trip scheduling, fleet telematics, and Medicaid compliance billing.",
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
